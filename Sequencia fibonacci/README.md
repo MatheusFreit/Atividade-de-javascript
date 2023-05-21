@@ -1,5 +1,5 @@
+# Projeto 1: Sequência de Fibonacci em JavaScript
 
-Descrição:
 Este projeto consiste em uma implementação da sequência de Fibonacci usando JavaScript. A sequência de Fibonacci é uma série numérica em que cada número subsequente é a soma dos dois números anteriores na sequência. O objetivo deste projeto é permitir que o usuário informe um número e gere a sequência de Fibonacci até o enésimo termo.
 
 A interface web foi desenvolvida utilizando HTML, CSS e JavaScript. Nela, o usuário pode inserir um número inteiro e, ao clicar no botão "Gerar a Sequência", a sequência de Fibonacci correspondente é calculada e exibida na página. Caso o usuário não insira um número válido, um alerta será exibido.
