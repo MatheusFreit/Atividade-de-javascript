@@ -1,28 +1,13 @@
 # Projetos-JS-simples
 
-# Projeto 1: Sequência de Fibonacci em JavaScript
+## Projeto: Sequência de Fibonacci e Tabuada em JavaScript
 
-# Projeto 2:
+Este projeto consiste em duas implementações em JavaScript: a sequência de Fibonacci e a tabuada. Ambas as implementações são disponibilizadas em uma interface web interativa desenvolvida em HTML, CSS e JavaScript.
 
-Descrição:
-Este projeto consiste em uma implementação de uma tabuada em JavaScript. A tabuada é uma tabela de multiplicação que mostra o resultado da multiplicação entre um número específico e os números de 1 a 10.
-A interface web foi desenvolvida utilizando HTML, CSS e JavaScript. Nela, o usuário pode inserir um número inteiro e, ao clicar no botão "Gerar a tabuada", a tabuada correspondente ao número informado é calculada e exibida na página em formato de lista.
-A implementação do algoritmo é realizada em JavaScript, onde um loop é utilizado para iterar de 1 a 10 e calcular o resultado da multiplicação entre o número informado e cada um dos números do loop. Os resultados são exibidos em uma lista suspensa (<select>).
+Na implementação da sequência de Fibonacci, o usuário pode informar um número inteiro e obter a sequência de Fibonacci até o enésimo termo correspondente ao número inserido. A implementação é eficiente e utiliza um loop para calcular os valores da sequência, evitando a recursão desnecessária e melhorando o desempenho. Os resultados são exibidos na página em formato de lista.
 
-Caso o usuário não insira um número válido, um alerta será exibido na página. A estilização da página foi realizada utilizando CSS, proporcionando uma experiência visual agradável.
+Na implementação da tabuada, o usuário pode inserir um número inteiro e obter a tabuada correspondente ao número informado. O algoritmo realiza a multiplicação do número informado com os números de 1 a 10 e exibe os resultados em uma lista suspensa na página. A validação do número inserido pelo usuário é realizada, e um alerta é exibido caso o número não seja válido.
 
-Recursos do projeto:
+Ambas as implementações possuem recursos de validação de entrada, fornecendo feedback ao usuário sobre o uso correto das funcionalidades. A estilização da página foi realizada utilizando CSS, proporcionando uma experiência visual agradável.
 
-* Interface web interativa para gerar a tabuada.
-* Validação do número inserido pelo usuário.
-* Implementação do algoritmo de tabuada em JavaScript.
-* Exibição da tabuada em formato de lista suspensa na página.
-* Estilização da página utilizando CSS para uma melhor experiência visual.
-
-# Imagens do Projeto
-
-  ## Paniel de controle: <br>
-  <img src = "https://raw.githubusercontent.com/MatheusFreit/Projetos-JS-simples/master/Tabuada%20em%20javascript/imagens/paniel.PNG">
-  
-  ## Exemplo de senquências : <br>
-  <img src = "https://raw.githubusercontent.com/MatheusFreit/Projetos-JS-simples/master/Tabuada%20em%20javascript/imagens/exemplo.PNG">
+Estes projetos são úteis para quem deseja explorar conceitos de programação em JavaScript, como loops, manipulação do DOM e exibição de informações dinâmicas em uma página web. Eles também podem ser utilizados como ferramentas educacionais para entender e praticar os algoritmos da sequência de Fibonacci e da tabuada.
