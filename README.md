@@ -23,3 +23,6 @@ Recursos do projeto:
 
 ## Exemplo de senquências : <br>
 <img src = "https://raw.githubusercontent.com/MatheusFreit/Projetos-JS-simples/master/Sequencia%20fibonacci/imagens/exemplo.PNG">
+
+# Projeto 2:
+
