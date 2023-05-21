@@ -16,3 +16,10 @@ Recursos do projeto:
 * Implementação eficiente do algoritmo usando um loop.
 * Exibição da sequência de Fibonacci até o enésimo termo na página.
 * Estilização da página utilizando CSS para uma melhor experiência visual.
+
+# Imagens do Projeto
+## Paniel de controle: <br>
+<img src = "https://raw.githubusercontent.com/MatheusFreit/Projetos-JS-simples/master/Sequencia%20fibonacci/imagens/paniel.PNG">
+
+## Exemplo de senquências : <br>
+<img src = "https://raw.githubusercontent.com/MatheusFreit/Projetos-JS-simples/master/Sequencia%20fibonacci/imagens/exemplo.PNG">
